@@ -1,4 +1,4 @@
-# VR Project1 by: Anwesh Nayak MS20224003, Ashashree Sarma MS2024005, Rishita Patel MS2024016
+# VR Project1 by: Anwesh Nayak MS2024003, Ashashree Sarma MS2024005, Rishita Patel MS2024016
 ## Introduction
 
 This project implements a computer vision system to address two key tasks:
